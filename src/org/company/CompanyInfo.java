@@ -17,6 +17,11 @@ public class CompanyInfo {
 	 System.out.println("Bangalore");
 	 
 }
+ private void companySalary() {
+System.out.println("750000RS");
+}
+
+ 
  public static void main(String[] args) {
 	 
 	CompanyInfo comp = new CompanyInfo();
